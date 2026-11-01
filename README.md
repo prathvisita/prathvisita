@@ -37,9 +37,17 @@
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/prathvisita)
 
-[![](https://readme-typing-svg.demolab.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello%2C+World+%F0%9F%91%8B;Welcome+to+My+Profile+%F0%9F%92%BB;Happy+to+See+You+Here+%F0%9F%98%80;Feel+Free+to+Look+Around+%E2%9C%A8;Reach+Me+Out+If+You+Need+Me+%F0%9F%8E%A8;Have+a+Great+Day+%F0%9F%8C%9E)](https://github.com/prathvisita)
+<div align="center">
 
-[![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://github.com/prathvisita)
+[![](https://readme-typing-svg.demolab.com?font=Ubuntu&color=58a6ff&size=22&center=true&vCenter=true&width=700&height=50&lines=Hello%2C+World+%F0%9F%91%8B;Welcome+to+My+Profile+%F0%9F%92%BB;Happy+to+See+You+Here+%F0%9F%98%80;Feel+Free+to+Look+Around+%E2%9C%A8;Reach+Me+Out+If+You+Need+Me+%F0%9F%8E%A8;Have+a+Great+Day+%F0%9F%8C%9E)](https://github.com/prathvisita)
+
+</div>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+</div>
 
 ---
 
@@ -67,7 +75,11 @@
 </tr>
 </table>
 
-[![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://github.com/prathvisita)
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+</div>
 
 ---
 
