@@ -224,9 +224,11 @@ Spring Boot backend for managing student records through REST APIs.
 
 ---
 
-## <img src="https://api.iconify.design/lucide/trophy.svg?color=%2322d3ee" width="24" height="24" align="absmiddle">  GitHub Trophies
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%2322d3ee" width="24" height="24" align="absmiddle">  GitHub Highlights
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prathvisita&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprathvisita&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=22D3EE)](https://github.com/prathvisita?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/prathvisita?style=for-the-badge&color=A78BFA&label=FOLLOWERS)](https://github.com/prathvisita?tab=followers)
+[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprathvisita&query=%24.following&label=FOLLOWING&style=for-the-badge&color=00FF88)](https://github.com/prathvisita?tab=following)
 
 ---
 
