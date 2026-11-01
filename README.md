@@ -43,7 +43,14 @@
 
 ---
 
-[![Coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)](https://github.com/prathvisita)
+<table>
+<tr>
+<td width="400" align="center" valign="middle">
+
+<a href="https://github.com/prathvisita"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="380"></a>
+
+</td>
+<td valign="middle">
 
 ### <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2322d3ee" width="24" height="24" align="absmiddle">  About Me
 
@@ -55,6 +62,10 @@
 - <img src="https://api.iconify.design/lucide/zap.svg?color=%2322d3ee" width="24" height="24" align="absmiddle">  Fun fact: I turn simple ideas into real, working systems
 - <img src="https://api.iconify.design/lucide/target.svg?color=%2322d3ee" width="24" height="24" align="absmiddle">  Open to **Java Backend Developer / Software Engineer** roles (fresher)
 - <img src="https://api.iconify.design/lucide/brain.svg?color=%2322d3ee" width="24" height="24" align="absmiddle">  Constantly exploring new technologies through **hands-on projects & experimentation**
+
+</td>
+</tr>
+</table>
 
 [![](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)](https://github.com/prathvisita)
 
