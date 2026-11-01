@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Prathviraj&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55&descSize=18&color=0:ff0080,25:7928ca,50:2afadf,75:00ff88,100:ffcc00)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathviraj!;Java+Backend+%7C+Spring+Boot+Developer;I+turn+ideas+into+real+working+systems+%F0%9F%9A%80)](https://github.com/prathvisita)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=650&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathviraj!;Java+Backend+%7C+Spring+Boot+Developer;I+turn+ideas+into+real+working+systems+%F0%9F%9A%80)](https://github.com/prathvisita)
 
 </div>
 
